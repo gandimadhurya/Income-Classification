@@ -14,10 +14,9 @@ Software and Libraries. This project uses the following software and Python libr
   - matplotlib
   - Jupyter Notebook
   
-  
  List of files - Description : 
-    - census.csv: The project dataset. You'll load this data in the notebook.
-    - visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
-    - income_classification.ipynb: This is the main notebook file for the project.
-    - Source.gv.pdf - stores pictorial representation of decision tree in pdf format everytime the notebook file is run.
+  - census.csv: The project dataset. You'll load this data in the notebook.
+  - visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
+  - income_classification.ipynb: This is the main notebook file for the project.
+  - Source.gv.pdf - stores pictorial representation of decision tree in pdf format everytime the notebook file is run.
   
